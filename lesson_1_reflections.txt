@@ -1,0 +1,39 @@
+Q:How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A:It help me very easly able to find the bug which i commited, and very easly help me to rectify it.
+
+Q:How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A:I will be easly able to understand what mistake I repettedly commit, am I will able to rectify it.
+
+Q:What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs 
+having versions automatically saved, like Google Docs does?
+
+A
+Pros:
+No large number of commit.
+Commit only when there is logical change.
+Easly compire with earlier commit, as there is logical change in commit.
+
+Cons:
+Forget to commit.
+Power failer may lose programming work.
+
+Q:Why do you think some version control systems, like Git, allow saving multiple files in one commit, while
+others, like Google Docs, treat each file separately?
+A:Because when we work with Git we mostly talk about full project which have multiple files, and each files are 
+interrelated where as when we talk about google doc, we simple keep single files.
+
+Q:How can you use the commands git log and git diff to view the history of files?
+A:git log:
+we will go to repository and type git log, it will show all the commit which we have done, along with description
+each commit. we can scroll down by presssing down key and scroll up by up key, and quit by q key.
+
+git diff:
+It show the difference between two commit. First we you have to write the git diff then the new commit then old commit. You will the line added by + sign and line deleted by - sign
+
+Q:How might using version control make you more confident to make changes that could break something?
+A:Really now i can go for implementing my logic often without thinking of code breaking.
+
+Q:Now that you have your workspace set up, what do you want to try using Git for?
+A:Frankly speaking I am learning Git because I am going to make expenses management system, so that I will manage the code smoothly.
+
+
