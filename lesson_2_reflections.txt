@@ -7,4 +7,16 @@ A:Staging area is the place were files are kept to be commit. change in the file
 are been add for commit. It gives us place were we can keep file for commit. before commit, we can change the files which 
 we want ot commit.
 
+Q:How can you use the staging area to make sure you have one commit per logical change?
+A:We will put that file only, which have one logical change in staging area, then we commit those files.
+
+Q:What are some situations when branches would be helpful in keeping your history organized? How would
+branches help?
+A:Situations like:
+1.when I want to make my project for multiple roles.
+2.If someone want to work on my project, I will give him complete copy by branching the project.
+
+Q:How do the diagrams help you visualize the branch structure?
+A:It help me know the git log structure we see. It help me know what exactly mean by detached  head mean.
+
 
