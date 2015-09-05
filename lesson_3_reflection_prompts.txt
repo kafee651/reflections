@@ -1,2 +1,14 @@
 Q:What might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A:commits
+
+Q:Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A:Forks:
+When I want to copy full repository in github from other github account.
+
+Clones:
+When I wnat to copy full repository from remote in my local system.
+
+Branches:
+When I want to copy full repository in my local system from same local system.
+
+All has it own situation.
