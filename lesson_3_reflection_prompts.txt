@@ -18,3 +18,6 @@ A:We can compaire what we have change till we are ofline.
 
 Q:How would you collaborate without using Git and GitHub? What would be easier, and what would be harder?
 A:By sharing files, Nothing will be the easier, all will be hard.
+
+Q:When would you want to make changes in a separate branch than directly in master? What benefits does each approach have?
+A:When I am going implement new concept and new idea I will go for new branch.
