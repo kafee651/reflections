@@ -12,3 +12,6 @@ Branches:
 When I want to copy full repository in my local system from same local system.
 
 All has it own situation.
+
+Q:What is the benefit of having a copy of the last known state of the remote stored locally?
+A:We can compaire what we have change till we are ofline.
